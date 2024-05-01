@@ -1,2 +1,2 @@
 # Textovy-analyzator
-ENGETO Projekt 1 - Textový analyzátor
+ENGETO Python akademie Projekt 1 - Textový analyzátor
